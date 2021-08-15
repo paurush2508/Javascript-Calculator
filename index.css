@@ -5,8 +5,8 @@ body {
 .calc {
   width: 272px;
   margin: 80px auto;
-  background: #4C4C4E;
-  background-image: linear-gradient(to left, #4C4C4E, 95%, #535355, #4C4C4E);
+  background: #000;
+  background-image: linear-gradient(to left, #000, 95%, #000, #000);
   padding: 15px;
   border-radius: 6px;
   border: 1px solid #2B2B2B;
@@ -48,7 +48,7 @@ body {
 
   background: #99999B;
   
-  color: #fff;
+  color: #000;
 }
 
 .btn:hover {
